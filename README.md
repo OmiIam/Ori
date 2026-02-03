@@ -316,10 +316,8 @@ You may choose either license for your use.
 
 ## Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ori/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ori/discussions)
-- **Email**: hello@ori.app (if you set this up)
-- **Twitter**: [@OriLearn](https://twitter.com/OriLearn) (if you create this)
+- **Issues**: [GitHub Issues](https://github.com/OmiIam/ori/issues)
+
 
 ---
 
