@@ -44,8 +44,8 @@ Ori provides:
 
 ### Core Functionality
 
-- ** Offline Content**: Download entire courses as ZIP bundles, study for weeks without connectivity
-- ** Progress Tracking**: Local progress saved instantly, syncs automatically when online
+- ** Offline Content **: Download entire courses as ZIP bundles, study for weeks without connectivity
+- ** Progress Tracking **: Local progress saved instantly, syncs automatically when online
 - ** Quiz System**: Take assessments offline, results sync when connected
 - ** Video Player**: Resume from where you left off, even after days offline
 - ** PDF Viewer**: Study documents with progress tracking
