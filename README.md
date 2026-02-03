@@ -29,7 +29,7 @@ Millions of students in rural areas face:
 -  Expensive mobile data
 -  Lack of aligned curriculum content
 
-### The Solution
+### My Proposed Solution
 
 Ori provides:
 -  **Severe Offline-First**: Full functionality for weeks without internet
@@ -173,7 +173,7 @@ open DEMO.html  # or double-click the file
 - **Phase 8**: Polish & v1.0 Release
 - **Phase 9**: Public Launch 
 
-See [detailed milestones](https://github.com/yourusername/ori/milestones) for full roadmap.
+See [detailed milestones](https://github.com/OmiIam/ori/milestones) for full roadmap.
 
 ---
 
@@ -230,23 +230,23 @@ See [detailed milestones](https://github.com/yourusername/ori/milestones) for fu
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from developers, designers, educators, and students!
 
 ### How to Contribute
 
-1. **🐛 Report Bugs** - [Open an issue](https://github.com/yourusername/ori/issues/new?template=bug_report.md)
-2. **💡 Suggest Features** - [Open a discussion](https://github.com/yourusername/ori/discussions/new)
-3. **📝 Improve Docs** - Documentation PRs always welcome
-4. **🎨 Design** - UI/UX improvements, icons, illustrations
-5. **📚 Create Content** - Contribute course bundles
-6. **🌍 Translate** - Help localize to more languages
-7. **💻 Code** - Pick an issue and submit a PR
+1. ** Report Bugs** - [Open an issue](https://github.com/OmiIam/ori/issues/new?template=bug_report.md)
+2. ** Suggest Features** - [Open a discussion](https://github.com/OmiIam/ori/discussions/new)
+3. ** Improve Docs** - Documentation PRs always welcome
+4. ** Design** - UI/UX improvements, icons, illustrations
+5. ** Create Content** - Contribute course bundles
+6. ** Translate** - Help localize to more languages
+7. ** Code** - Pick an issue and submit a PR
 
 ### Good First Issues
 
-New to the project? Look for issues labeled [`good-first-issue`](https://github.com/yourusername/ori/labels/good-first-issue).
+New to the project? Look for issues labeled [`good-first-issue`](https://github.com/OmiIam/ori/labels/good-first-issue).
 
 ### Development Workflow
 
@@ -290,7 +290,7 @@ You may choose either license for your use.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 ### Inspiration
 
